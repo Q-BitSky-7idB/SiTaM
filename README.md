@@ -1,2 +1,2 @@
-# SiTaM
+# SiTaMa
 Simple Tasks Manager
